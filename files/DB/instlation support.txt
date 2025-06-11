@@ -1,0 +1,6 @@
+php virsion 8.1
+
+admin details 
+
+id : admin@gmail.com
+password - 123456 
